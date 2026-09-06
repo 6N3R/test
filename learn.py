@@ -1,0 +1,5 @@
+print(round(3.8))
+print(round(3.2))
+print(min(3,2))
+print(max(4,7))
+print(pow(2,4))
